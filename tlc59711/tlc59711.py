@@ -1,7 +1,3 @@
-#!/usr/bin/python
-from time import sleep
-import sys
-import threading
 import RPi.GPIO as GPIO
 
 
