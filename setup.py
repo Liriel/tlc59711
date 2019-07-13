@@ -12,7 +12,7 @@ with open(path.join(HERE, 'README.md'), encoding='utf-8') as f:
 # This call to setup() does all the work
 setup(
     name="rpi-tlc59711",
-    version="1.0.6",
+    version="1.0.0",
     description="Raspberry Pi library to communicate with the TLC59711 12 channel LED driver",
     long_description=README,
     long_description_content_type="text/markdown",
